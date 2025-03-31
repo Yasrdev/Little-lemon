@@ -1,10 +1,10 @@
 # Meta: Back-End Developer Capstone
 
-▷ This is the final assignment of the Meta Backend Developer Professional Certificate on Coursera
+▷ This is the culminating project for the Meta Backend Developer Professional Certificate on Coursera.
 
-Throughout this project, I've explored various aspects of back-end development, including database management, API design, authentication, and optimization. By tackling real-world challenges and implementing industry best practices, I've honed my abilities to architect and deploy back-end solutions that meet the needs of modern applications.
+In this project, I delved into several key areas of back-end development, including database management, API design, authentication, and performance optimization. By solving real-world problems and applying best practices from the industry, I’ve strengthened my skills in designing and deploying back-end solutions tailored to the demands of modern applications.
 
-Thanks for taking the time to review this project! My hope is that it sparks inspiration and provides helpful guidance for other aspiring back-end developers as they navigate their own paths in the exciting world of software development.
+Thank you for taking the time to review this project! I hope it serves as an inspiration and provides valuable insights to other aspiring back-end developers on their journey in the dynamic field of software development.
 
 ## Content Guide 🗺️
 
